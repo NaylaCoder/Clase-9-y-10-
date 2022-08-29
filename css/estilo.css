@@ -37,7 +37,7 @@ ul{display: flex; justify-content: flex-end;flex-wrap: wrap;}
 	"encabezado Encabezado"
 	"footer footer";
 }
-header{grid-area: header; display: flex; margin-bottom: 50px;border-bottom: solid 1px lightblue;background-color: aliceblue;padding: 20px 0; }
+header{grid-area: header; display: flex; margin-bottom: 50px;border-bottom: solid 1px lightblue;background-color: aliceblue;padding: 20px 0;}
 .imgPrincipal{grid-area: imagenPrincipal;}
 .encabezado{grid-area: encabezado; text-align: center; padding: 20px 0;}
 .texto{grid-area: texto; padding: 50px;}

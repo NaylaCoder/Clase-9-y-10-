@@ -1,1 +1,1 @@
-Codigo con diseño responsive vista movible y desktop 
+Codigo diseño responsive vista mobile y desktop
