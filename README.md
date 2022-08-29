@@ -1,0 +1,1 @@
+codigo que resuelve el diseño responsive en vista mobible y desktop para pagina informativa sobre restaurante
